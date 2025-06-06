@@ -1,0 +1,101 @@
+# Registro de reclamos ciudadanos municipales
+
+## Introduccion
+
+La alcaldia de "Villa Esperanza" quiere permitir a los ciudadanos registrar sus reclamos por servicios municipales, para que asi sea mucho mas facil y practico este tema que es muy importante ya que permite a los ciudadanos dar sus puntos de vistas sobre algun tema en especifico para poder asi dar una solucion correcta y puntual al  problema.
+
+### Descripcion general del sistema
+
+El sistema que se quiere emplear tiene por objetivo evitar la burocracia, y los largos tramites que se tienen que hacer para presentar una queja ante la alcaldia, llegando a facilitar al ciudadano el proceso de la presentacion de reclamos y quejas.
+
+
+### Objetivo general
+
+Permitir a ciudadanos registrar reclamos por servicios.
+
+### Objetivos especificos
+
+1. Recepcion de  los reclamos de cada ciudadano
+2. Analisis de los reclamos
+3. Ejecucion de la solucion al problema presentado y su respectivo seguimiento
+
+## Historias de usuario objetivo especifico 1
+
+HU-01 : Como encargado de la recepcion de reclamos, quiero poder estar al tanto de todo los movimientos que haya en mi area, para poder tener un mejor control sobre cada situacion que pueda surgir.
+Criterios de aceptacion:
+- Estoy al tanto de todo lo que acontece en mi area, asi que ante cualquier problema que pueda surir podre darle una buena solucion 
+- No estoy al tanto de todo lo que acontece y por lo tanto en caso de algun problema mayor no podre solucionarlo de manera eficaz y puntual
+HU -02 : Como supervisor general, quiero poder ver en primera fila todo lo que acontezca en el area de reclamos, para poder ver si algo esta fallando y asi poder solucionarlo.
+Criterios de aceptacion: 
+- Puedo ver en primera fila todo lo que acontece en el area de reclamos y ante cualquier problema lo soluciono de manera eficaz
+- No estoy al tanto asi que ante cualquier problema no podre solucionarlo de manera puntual y eficaz
+HU-03 : Como supervisor del sistema, quiero poder hacer una revision cada cierto tiempo, para corroborar de que el sistema marche de la mejor manera.
+Criterios de aceptacion: 
+- Realizo las revisiones correspondientes, llegando asi a poder detectar algun posible error en el sistema
+- El sistema no me deja acceder y por lo tanto me es mas dificil detectar el error al no tener acceso
+HU-04 : Como el principal recepcionista, quiero poder clasificar cada reclamo segun la categoria a la que corresponda, para una mejor organizacion.
+Criterios de aceptacion:
+- Tengo acceso a cada reclamo y asi los puedo clasificar segun donde correspondan
+- No tengo acceso a cada reclamo y por lo tanto no hay una correcta organizacion
+HU-05 : Como funcionario, quiero poder tener buenas condiciones de trabajo, para que mi desempeño sea optimo.
+Criterios de aceptacion:
+- Tengo buenas condiciones de trabajo y mi desempeño es bueno y aceptable
+- No tengo las condiciones basicas, por lo tanto no puedo cumplir de la mejor manera
+HU-06 : Como cliente, quiero poder hacer mi reclamo de manera rápida, para que me puedan dar una solución lo mas antes posible.
+Criterios de aceptación:
+- Hago mi reclamo de manera rápida y efectiva
+- No puedo hacer mi reclamo o el sistema es lento e ineficaz 
+
+## Historias de usuario objetivo especifico 2
+
+HU-01 : Como encargado, quiero poder tener un reporte cada cierto tiempo, para un correcto seguimiento de los analisis.
+Criterios de aceptacion: 
+- Tengo un reporte cada cierto tiempo y asi un mejor control en mi area
+- No tengo el reporte, por lo tanto no tengo una perspectiva muy amplia sobre lo que ocurre
+HU-02 : Como supervisor, quiero poder ver ciertos casos de reclamos, para saber como actuar ante cada situacion y que solucion dar.
+Criterios de aceptacion:
+- Veo ciertos casos de reclamos y asi analizo como se debe actuar en cada uno
+- No tengo acceso a casos de reclamos, por lo tanto si surgiera algun problema de gran magnitud la solucion no sera rapida
+HU-03 : Como colaborador en la clasificacion de los reclamos, quiero poder delegar a cada funcionario sus tareas y reclamos correspondientes, para que cada uno de ellos se ocupe cada en su respectiva area.
+Criterios de aceptacion:
+- Puedo acceder a las clacificaciones de los reclamos y hago correctamente mi trabajo
+- No puedo acceder a las clasificaciones y por lo tanto no puedo delegar a cada uno su parte correspondiente del trabajo
+HU-04 : Como funcionario en esta area de trabajo, quiero poder saber a tiempo cual es el trabajo que me corresponde, para poder analizarlo y mandarlo a ejecuar lo mas rapido posible.
+Criterios de aceptacion:
+- Tengo lo que me corresponde de trabajar y lo hago de manera rapida y eficaz
+- Hubo un retraso en la asignacion de tareas y por lo tanto no cumpli a tiempo
+HU-05 : Como mensajero desde analisis hasta ejecucion, quiero poder tener a tiempo el analisis de cada reclamo, para que lo mande a tiempo a ejecucion.
+Criterios de aceptacion:
+- Recibo a tiempo los analisis segun cada reclamo y los mando a tiempo a ejecutar
+- No recibo a tiempo los analisis o no los recibo, lo que lleva a retrasar el proceso
+HU-06 : Como cliente, quiero que mi reclamo sea correctamente clasificado, para una mejor solucion.
+Criterios de aceptacion:
+- Mi reclamo fue correctamente clasificado y hubo una correcta solucion
+- No analizaron ni clasificaron corrrectamente mi reclamo, por lo tanto no se dio la solucion esperada
+
+## Historias de usuario objetivo especifico 2
+
+HU-01 : Como encargado, quiero poder recibir una lista e informe de todas las soluciones a cada reclamo, para hacer un seguimiento general de todo el asunto.
+Criterios de aceptacion:
+- Recibo la lista e informe general, por lo tanto ante cualquier problema de mayor magnitud podre solucionarlo
+- No recibo ni la lista ni el informe general, asi que grandes problemas no podre solucionarlos
+HU-02 : Como supervisor, quiero poder estar al tanto de todo lo que acontezca, para asi dar el informe y la lista general al encargado.
+Criterios de aceptacion:
+- Se me informa y estoy al tanto de todo, por lo tanto llevo un correcto registro general y especifico
+- No se me informa sobre todas las situaciones que surgen, asi que no puedo realizar la lista ni el informe para presentar al encargado
+HU-03 : Como coordinador en la delegacion de tareas, quiero recibir analisis exactos y bien redactados, para poder cumplir con la tarea como debe ser.
+Criterios de aceptacion:
+- Recibo buenos analisis, por lo tanto delego trabajos a las personas adecuadas
+- No recibo un buen informe, asi que no puedo delegar tareas a quienes corresponde
+HU-04 : Como funcionario de esta area, quiero recibir tareas especificas y realistas para cada reclamo y asignar un correspondiente seguimiento, para que pueda cumplir de buena manera.
+Criterios de aceptacion:
+- Recibo tareas realistas, bien redactadas y claras, por lo tanto mi desempeño es optimo
+- No recibo tareas realistas, ni bien redactadas ni claras, asi que no puedo cumplir de la mejor manera
+HU-05 : Como representante del equipo de trabajo, quiero que se den buenas soluciones ante el ciudadano, para evitar peleas y contiendas.
+Criterios de aceptacion:
+- Se dan buenas soluciones a los reclamos de cada ciudadano, por lo tanto puedo hacer buenos informes para asi presentarselos al ciudadano
+- No se dan soluciones realmente efectivas, asi que no se puede hacer un buen informe de presentacion
+HU-06 : Como ciudadano, quiero recibir soluciones que realmente sean utiles ante el problema presentado, para evitar problemas mayores
+Criterios de aceptacion:
+- Recibo buenas soluciones a mis problemas y reclamos, terminando todo en buenos terminos
+- No recibo soluciones a mis problemas y reclamos, por lo tanto se tendra problemas de mayor magnitud y posibles contiendas
